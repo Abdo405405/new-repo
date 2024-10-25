@@ -1,3 +1,5 @@
-print("Hello World")
+def sum_2_number (n1 , n2) :
+    return n1+n2  
 
-print("This line Created By Pc")
+
+
