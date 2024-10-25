@@ -1,5 +1,4 @@
-def sum_2_number (n1 , n2) :
-    return n1+n2  
+from derivied_module import say_hello 
 
 
-
+say_hello()
