@@ -1,2 +1,4 @@
-print("Hello World")
-print ("This line created by Eng Abdo")
+def say_hello () : 
+  print("Hello World") 
+
+
